@@ -9,4 +9,4 @@ It's nicknamed RinPana to match the Honoka's nickname.
 
 ## Todo
 
-[ ] Incorporating RinPana as part of Honoka
+- [ ] Incorporating RinPana as part of Honoka
