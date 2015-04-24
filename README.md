@@ -10,3 +10,6 @@ It's nicknamed RinPana to match the Honoka's nickname.
 ## Todo
 
 - [ ] Incorporating RinPana as part of Honoka
+
+## Credits
+- Marcin Coles (https://github.com/fjc)
